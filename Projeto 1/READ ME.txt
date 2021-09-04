@@ -1,2 +1,2 @@
-CORRER : 
-./tecnicofs inputFile outpitfile numThreads lockstyle
+Manage a file system using threads and different thread locks
+Run: ./tecnicofs inputFile outpitfile numThreads lockstyle
