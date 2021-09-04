@@ -1,0 +1,2 @@
+CORRER : 
+./tecnicofs inputFile outpitfile numThreads lockstyle
