@@ -1,0 +1,5 @@
+CORRER : 
+server : ./tecnicofs numthread nomeserver 
+         
+
+cliente: ./tecnicofs-client inputFile nomeserver
